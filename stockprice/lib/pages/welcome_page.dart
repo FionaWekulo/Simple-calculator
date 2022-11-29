@@ -24,13 +24,13 @@ class _WelcomePageState extends State<WelcomePage> {
   //dummy text
   List<String> textHeader = [
     "Looking for a wise investment?"
-        "Be the first to know about cheap stock"
-        "SureMoney Stock Price Prediction App"
+        //"Be the first to know about cheap stock"
+        //"SureMoney Stock Price Prediction App"
   ];
   List<String> textSubHeader = [
     "Look no further",
-    "We use a highly developed Artificial Intelligence software to predict stock prices"
-        "Where your money is valued "
+    //"We use a highly developed Artificial Intelligence software to predict stock prices"
+        //"Where your money is valued "
   ];
 
   @override
