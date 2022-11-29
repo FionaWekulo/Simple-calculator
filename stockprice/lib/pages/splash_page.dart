@@ -16,7 +16,7 @@ class _SplashPageState extends State<SplashPage> {
   //moving to welcome page after some seconds
   @override
   void initState() {
-    Timer(const Duration(milliseconds: 2500), () {
+    Timer(const Duration(milliseconds: 3500), () {
       //push replacement used to delete the tsplash page from stack
       Navigator.pushReplacement(
           context, MaterialPageRoute(builder: (_) => const WelcomePage()));
@@ -50,7 +50,7 @@ class _SplashPageState extends State<SplashPage> {
             ),
             const Padding(
               padding: EdgeInsets.only(top: 15.0),
-              child: AppTextBold(text: "SureMoney Stock Price Prediction App"),
+              child: AppTextBold(text: "  SureMoney "),
             )
           ],
         ),
