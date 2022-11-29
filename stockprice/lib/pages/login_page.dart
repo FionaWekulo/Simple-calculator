@@ -1,9 +1,9 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:stock/pages/verification_page.dart';
-import 'package:stock/widgets/app_text_bold.dart';
-import 'package:stock/widgets/bubble_layer.dart';
-import 'package:stock/widgets/constants.dart';
+import 'package:stockprice/pages/verification_page.dart';
+import 'package:stockprice/widgets/app_text_bold.dart';
+import 'package:stockprice/widgets/bubble_layer.dart';
+import 'package:stockprice/widgets/constants.dart';
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:stock/pages/registration_page.dart';
-import 'package:stock/widgets/app_text_bold.dart';
-import 'package:stock/widgets/bubble_layer.dart';
-import 'package:stock/widgets/constants.dart';
+import 'package:stockprice/pages/registration_page.dart';
+import 'package:stockprice/widgets/app_text_bold.dart';
+import 'package:stockprice/widgets/bubble_layer.dart';
+import 'package:stockprice/widgets/constants.dart';
 
 class VerificationPage extends StatefulWidget {
   const VerificationPage({super.key});

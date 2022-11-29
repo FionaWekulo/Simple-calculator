@@ -1,6 +1,6 @@
-import 'package:stock/widgets/app_text_normal.dart';
+import 'package:stockprice/widgets/app_text_normal.dart';
 import 'package:flutter/material.dart';
-import 'package:stock/widgets/constants.dart';
+import 'package:stockprice/widgets/constants.dart';
 
 class MyDrawer extends StatefulWidget {
   //getting selected menu to homepage

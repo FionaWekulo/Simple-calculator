@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:stock/pages/login_page.dart';
-import 'package:stock/widgets/blinking_button.dart';
+import 'package:stockprice/pages/login_page.dart';
+import 'package:stockprice/widgets/blinking_button.dart';
 import '../widgets/app_text_bold.dart';
 import '../widgets/app_text_normal.dart';
 

@@ -1,9 +1,9 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:stock/pages/welcome_page.dart';
-import 'package:stock/widgets/app_text_bold.dart';
-import 'package:stock/widgets/constants.dart';
+import 'package:stockprice/pages/welcome_page.dart';
+import 'package:stockprice/widgets/app_text_bold.dart';
+import 'package:stockprice/widgets/constants.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});

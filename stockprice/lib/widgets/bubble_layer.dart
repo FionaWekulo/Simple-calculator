@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:stock/widgets/constants.dart';
+import 'package:stockprice/widgets/constants.dart';
 
 class BubbleLayer extends StatefulWidget {
   final Widget child;

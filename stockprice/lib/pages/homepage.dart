@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:stock/pages/fragments/history_frag.dart';
-import 'package:stock/pages/fragments/profile_frag.dart';
-import 'package:stock/pages/fragments/stockprice_frag.dart';
-import 'package:stock/pages/fragments/wallet_frag.dart';
-import 'package:stock/widgets/my_drawer.dart';
+import 'package:stockprice/pages/fragments/history_frag.dart';
+import 'package:stockprice/pages/fragments/profile_frag.dart';
+import 'package:stockprice/pages/fragments/stockprice_frag.dart';
+import 'package:stockprice/pages/fragments/wallet_frag.dart';
+import 'package:stockprice/widgets/my_drawer.dart';
 import '../widgets/constants.dart';
 
 class HomePage extends StatefulWidget {
